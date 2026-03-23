@@ -8,6 +8,7 @@ let precoBase = 0.0
 let nomeCategoria = ""
 let nomeDestino = ""
 
+
 switch (categoria) {
     case 1 :
         desconto = 0.0
